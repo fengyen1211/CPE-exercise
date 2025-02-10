@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	//ios::sync_with_stdio(0); cin.tie(0);
+	ios::sync_with_stdio(0); cin.tie(0);
 	string n;
 	while(cin >> n && n != "0"){
 		unsigned long long a = 0, b = 0;

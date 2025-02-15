@@ -9,3 +9,4 @@
 9.2025/02/12 UVA10222 - Decode the Mad man：就蠻無聊的，把全部列出來就好了。  
 10.2025/02/15 UVA11332 - Summing Digits：前幾天不舒服就沒做了，這題單純的遞迴。  
 11.2025/02/15 UVA10252 - Common Permutation：我用vector<pair<>>紀錄a字串和b字串中a-z出現次數，最後再輸出。  
+12.2025/02/15 UVA490 - Rotating Sentences：今天學到什麼是EOF，這題先getline(cin, s)，再把s存到vector，最後用雙重for迴圈輸出。  

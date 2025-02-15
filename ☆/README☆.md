@@ -7,5 +7,5 @@
 7.2025/02/12 UVA10420 - list of Conquests：今天學到了getline、stringstream和map的用法，雖然遍歷map的邏輯還不是很懂，但我感覺我有在慢慢把高中沒學會的東西學回來。  
 8.2025/02/12 UVA10008 - What's Cyptanalysis：這題我用了ASCII碼來分辨char和將小寫換成大寫，再紀錄到map，最後把他轉成vector<pair<char, int> >再用自訂比較函數來讓輸出由次數高到低。感覺題目要用的語法越來越難了...  
 9.2025/02/12 UVA10222 - Decode the Mad man：就蠻無聊的，把全部列出來就好了。  
-10.2025/02/15 UVA11332 - Summing Digits：前幾天不舒服就沒做了，這題單純的遞迴。
-11.2025/02/15 UVA10252 - Common Permutation：我用vector<pair<>>紀錄a字串和b字串中a-z出現次數，最後再輸出。
+10.2025/02/15 UVA11332 - Summing Digits：前幾天不舒服就沒做了，這題單純的遞迴。  
+11.2025/02/15 UVA10252 - Common Permutation：我用vector<pair<>>紀錄a字串和b字串中a-z出現次數，最後再輸出。  

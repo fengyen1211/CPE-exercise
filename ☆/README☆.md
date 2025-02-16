@@ -11,3 +11,4 @@
 11.2025/02/15 UVA10252 - Common Permutation：我用vector<pair<>>紀錄a字串和b字串中a-z出現次數，最後再輸出。  
 12.2025/02/15 UVA490 - Rotating Sentences：今天學到什麼是EOF，這題先getline(cin, s)，再把s存到vector，最後用雙重for迴圈輸出。  
 13.2025/02/16 UVA272 - TeX Quotes：原本的想法很迂迴，後來chatgpt給我一個跟我想法差不多但精簡很多的版本，最後就順利地打出來了。  
+14.2025/02/16 UVA12019 - Doom's Day Algorithm：算總天數再%7就知道結果了。  

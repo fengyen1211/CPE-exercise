@@ -14,3 +14,4 @@
 14.2025/02/16 UVA12019 - Doom's Day Algorithm：算總天數再%7就知道結果了。  
 15.2025/02/16 UVA10038 - Jolly Jumpers：先檢查相鄰兩數的差是否比n-1大，再來要檢查是否1\~n-1的數字是否都有，之後答案就出來了。  
 16.2025/02/18 UVA10056 - What is the Probability?：老瞿的數學題，代入無窮等比級數公式然後再特判p=1的情況就好了。  
+17.2025/02/20 UVA10170 - The Hotel with Infinite Rooms：要注意開頭，不然會多算一天。  

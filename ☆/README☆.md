@@ -22,4 +22,5 @@
 22.2025/02/25 UVA11461 - Square Numbers：ceil()是向上取整，也就是高斯符號，floor()是向下取整，然後sqrt()是開根號。  
 23.2025/02/25 UVA11063 - B2-Sequence：將數列存到vector中，然後在存的過程中檢查這個數列是否從小排到大和是否有負數，之後用雙重for迴圈算任意兩數的和，要注意的是自己可以加自己，最後用set的count()來檢查有沒有重複的值。還有一點是find()回傳的資料型態是iterator，若沒找到值會回傳end()，而count()回傳的資料型態是boolean，找到是1、沒找到是0。  
 24.2025/02/26 UVA10071 - Back to High School Physics：沒什麼好說的，就把輸入的兩數相乘再乘2。  
-25.2025/02/26 UVA10093 - An Easy Problem!：
+25.2025/02/26 UVA10093 - An Easy Problem!：  
+26.2025/02/26 UVA948 - Fibonaccimal Base：  

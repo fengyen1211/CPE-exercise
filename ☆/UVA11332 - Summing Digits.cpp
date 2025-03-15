@@ -1,22 +1,16 @@
 #include<bits/stdc++.h>
 using namespace std;
-long long ff(long long n){
-	if(n >= 10){
-		long long sum = 0;
-		while(n){
-			sum += n % 10;
-			n /= 10;
-		}
-		return ff(sum);
+int f(long long n){
+	int ans = 0;
+	while(n){
+		ans += n % 10;
+		n /= 10;
 	}
-	else return n;
+	if(ans >= 10) return f(ans);
+	else return ans;
 }
 int main(){
 	ios::sync_with_stdio(0); cin.tie(0);
 	long long n;
-	while(cin >> n){
-		if(n == 0) break;
-		cout << ff(n) << '\n';
-	}
+	while(cin >> n && n) cout << f(n) << '\n';
 }
-

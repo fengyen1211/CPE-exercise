@@ -36,3 +36,4 @@
 35.2025/03/25 UVA11417 - GCD：記得gcd的實作return a ? gcd(b%a, a) : b;然後直接代入題目給的for迴圈就好了。  
 36.2025/03/25 UVA10908 - Largest Square：這題我想到的方法就是暴力解，從3*3開始檢查所有周圍的元素是否跟中心的一樣，然後再檢查5*5、7*7…。  
 37.2025/03/26 UVA10221 - Satellites：知道公式就好，然後#define _USE_MATH_DEFINES可以用log和pi，pi=M_PI;然後記得若a>360或a>180要處理一下。  
+38.2025/03/26 UVA10642 - Can You Solve It?：找出規律。  

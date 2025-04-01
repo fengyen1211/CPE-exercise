@@ -38,3 +38,4 @@
 37.2025/03/26 UVA10221 - Satellites：知道公式就好，然後#define _USE_MATH_DEFINES可以用log和pi，pi=M_PI;然後記得若a>360或a>180要處理一下。  
 38.2025/03/26 UVA10642 - Can You Solve It?：找出規律。  
 39.2025/03/27 UVA10242 - Fourth Point !!：要注意哪兩個點是一樣的，然後相加另外兩個點再減掉其中一個一樣的點答案就出來了。    
+40.2025/04/01 UVA10057 - A mid-summer night's dream.：vector可以用count來找出特定元素再vector出現的數量，用法n = count(vec.begin(), vec.end(), num);這題就是找中位數的題目，有點像Vito's family。  

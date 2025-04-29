@@ -40,3 +40,4 @@
 39.2025/03/27 UVA10242 - Fourth Point !!：要注意哪兩個點是一樣的，然後相加另外兩個點再減掉其中一個一樣的點答案就出來了。    
 40.2025/04/01 UVA10057 - A mid-summer night's dream.：vector可以用count來找出特定元素再vector出現的數量，用法n = count(vec.begin(), vec.end(), num);這題就是找中位數的題目，有點像Vito's family。  
 41.2025/04/02 UVA10062 - Tell me the frequencies!：學到了自訂比較函數還有vector可以用emplace_back來加入新元素，我好不會這種排序題。  
+42.2025/04/29 UVA299 - Train Swapping：中間休了有點久，但我又回來了，這題用bubble sort就好。  
